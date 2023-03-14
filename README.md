@@ -6,4 +6,4 @@ My name is Mary Oswera
 - 👯 I’m looking to collaborate on web development
 - 😄 Pronouns: they/them
 - ⚡ Fun fact: the colur orange was named after oranges
--->
+
